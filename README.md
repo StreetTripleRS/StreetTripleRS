@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @StreetTripleRS
 - 👀 I’m interested in BIKES
-- 🌱 I’m currently learning Nothin'
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning: About communities
+- 💞️ I’m looking to collaborate on: Coding
+- 📫 How to reach me: Via Pigeon
 - ⚡ Fun fact: Oompa Loompa
 
 <!---
